@@ -1,5 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-
+### Name : K MADHAVA REDDY
+### Reg No : 212223240064
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
